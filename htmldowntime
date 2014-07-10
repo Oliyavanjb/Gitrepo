@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+h1 {color:red;}
+p {color:blue;}
+</style>
+</head>
+<body>
+<center><h1>ALERT: WINDOWS BUILD USERS</h1></center>
+<p><center><font size="3" face="verdana" color="green"><b>CM Centre will be down for maintenance, Please try after 20min.</b></font></center></p>
+<p><center><font size="4" color="black"><b>Note: </b></font><b>Builds will fail during maintenance window</b></center></p>
+<p><center><strong><b>    </b></strong><b>You will not see this message once the CM Centre is up and running</b></center></p>
+<address>
+<center><font size="3" color="red"><b>For CM Related issues Please Drop the mail to </b></font><a href="mailto:CMB-OSS-CM@one.verizon.com">OSS Configuration Management</a></center><br> 
+</address>
+</body>
+</html> 
